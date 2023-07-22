@@ -1,13 +1,11 @@
-Running Tutorials in Google Colab
+Google Colab에서 튜토리얼 실행하기
 =================================
 
-When you run a tutorial in Google Colab, there might be additional
-requirements and dependencies that you need to meet in order
-for the tutorial to work properly. This section contains notes on how to
-configure various settings in order to successfully
-run PyTorch tutorials in Google Colab.
+Google Colab에서 튜토리얼을 실행할 때, 튜토리얼이 제대로 작동하려면 충족해야 하는 추가 요구 사항과
+종속성이 있을 수 있습니다. 이 섹션에서는 Google Colab에서 파이토치 튜토리얼을 성공적으로 실행하기
+위해 다양한 설정을 구성하는 방법에 대해 설명합니다.
 
-PyTorch Version in Google Colab
+Google Colab우ㅏ PyTorch 버전
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you are running a tutorial that requires a version of PyTorch that has
