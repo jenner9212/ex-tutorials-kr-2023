@@ -5,7 +5,7 @@ Google Colab에서 튜토리얼을 실행할 때, 튜토리얼이 제대로 작�
 종속성이 있을 수 있습니다. 이 섹션에서는 Google Colab에서 파이토치 튜토리얼을 성공적으로 실행하기
 위해 다양한 설정을 구성하는 방법에 대해 설명합니다.
 
-Google Colab우ㅏ PyTorch 버전
+Google Colab의 PyTorch 버전
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 When you are running a tutorial that requires a version of PyTorch that has
